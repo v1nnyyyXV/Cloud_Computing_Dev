@@ -45,4 +45,4 @@ watchdog==6.0.0
 websockets==16.0
 streamlit
 pandas
-matplotlib
+matplotlib==3.10.5
