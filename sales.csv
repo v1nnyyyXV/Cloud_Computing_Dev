@@ -1,0 +1,425 @@
+order_id,order_date,product_id,product_name,category,quantity_sold,unit_price,total_amount,customer_id,payment_method,order_status
+O001,2026-02-01,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C001,M-Pesa,Delivered
+O002,2026-02-01,P016,Unga Wa Dola 2kg,Groceries,3,210,630,C002,Cash,Delivered
+O003,2026-02-02,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C003,Card,Delivered
+O004,2026-02-02,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C004,M-Pesa,Delivered
+O005,2026-02-03,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C005,Card,Delivered
+O006,2026-02-03,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C006,Cash,Delivered
+O007,2026-02-04,P021,Throw Pillow Set,Home & Living,1,1800,1800,C007,M-Pesa,Delivered
+O008,2026-02-04,P008,Classic White Sneakers,Footwear,1,3200,3200,C008,Card,Delivered
+O009,2026-02-05,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C009,Cash,Delivered
+O010,2026-02-05,P012,Garnier Micellar Water,Beauty,1,950,950,C010,M-Pesa,Delivered
+O011,2026-02-06,P002,Redmi Note 13,Electronics,1,28500,28500,C011,Card,Delivered
+O012,2026-02-06,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C012,Cash,Delivered
+O013,2026-02-07,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C013,M-Pesa,Delivered
+O014,2026-02-07,P022,Laundry Basket,Home & Living,1,950,950,C014,Card,Delivered
+O015,2026-02-08,P026,Men's Running Shoes,Footwear,1,4200,4200,C015,Cash,Delivered
+O016,2026-02-08,P009,Men's Leather Belt,Fashion,1,1200,1200,C016,M-Pesa,Delivered
+O017,2026-02-09,P020,Kabras Sugar 2kg,Groceries,3,290,870,C017,Card,Delivered
+O018,2026-02-09,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C018,Cash,Delivered
+O019,2026-02-10,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C019,M-Pesa,Delivered
+O020,2026-02-10,P023,LED Desk Lamp,Home & Living,1,2200,2200,C020,Card,Delivered
+O021,2026-02-11,P027,Women's Flat Sandals,Footwear,1,1800,1800,C021,Cash,Delivered
+O022,2026-02-11,P028,School Backpack,Fashion,1,2500,2500,C022,M-Pesa,Delivered
+O024,2026-02-12,P005,HP Wireless Mouse,Electronics,2,1800,3600,C024,Cash,Delivered
+O025,2026-02-13,P017,Brookside Milk 500ml,Groceries,5,65,325,C025,M-Pesa,Delivered
+O026,2026-02-13,P010,Women's Handbag,Fashion,1,3500,3500,C026,Card,Delivered
+O027,2026-02-14,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C027,Cash,Delivered
+O028,2026-02-14,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C028,M-Pesa,Delivered
+O029,2026-02-15,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C029,Card,Delivered
+O030,2026-02-15,P025,Wall Clock,Home & Living,1,1500,1500,C030,Cash,Delivered
+O031,2026-02-16,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C031,M-Pesa,Delivered
+O032,2026-02-16,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C032,Card,Delivered
+O033,2026-02-17,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C033,Cash,Delivered
+O034,2026-02-17,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C034,M-Pesa,Delivered
+O035,2026-02-18,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C035,Card,Delivered
+O036,2026-02-18,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C036,Cash,Delivered
+O037,2026-02-19,P021,Throw Pillow Set,Home & Living,1,1800,1800,C037,M-Pesa,Delivered
+O038,2026-02-19,P008,Classic White Sneakers,Footwear,1,3200,3200,C038,Card,Delivered
+O039,2026-02-20,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C039,Cash,Delivered
+O040,2026-02-20,P012,Garnier Micellar Water,Beauty,1,950,950,C040,M-Pesa,Delivered
+O041,2026-02-21,P002,Redmi Note 13,Electronics,1,28500,28500,C041,Card,Delivered
+O042,2026-02-21,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C042,Cash,Delivered
+O043,2026-02-22,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C043,M-Pesa,Delivered
+O044,2026-02-22,P022,Laundry Basket,Home & Living,1,950,950,C044,Card,Delivered
+O045,2026-02-23,P026,Men's Running Shoes,Footwear,1,4200,4200,C045,Cash,Delivered
+O046,2026-02-23,P009,Men's Leather Belt,Fashion,1,1200,1200,C046,M-Pesa,Delivered
+O047,2026-02-24,P020,Kabras Sugar 2kg,Groceries,3,290,870,C047,Card,Delivered
+O048,2026-02-24,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C048,Cash,Delivered
+O049,2026-02-25,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C049,M-Pesa,Delivered
+O050,2026-02-25,P023,LED Desk Lamp,Home & Living,1,2200,2200,C050,Card,Delivered
+O051,2026-02-26,P027,Women's Flat Sandals,Footwear,1,1800,1800,C051,Cash,Delivered
+O052,2026-02-26,P028,School Backpack,Fashion,1,2500,2500,C052,M-Pesa,Delivered
+O054,2026-02-27,P005,HP Wireless Mouse,Electronics,2,1800,3600,C054,Cash,Delivered
+O055,2026-02-28,P017,Brookside Milk 500ml,Groceries,5,65,325,C055,M-Pesa,Delivered
+O056,2026-03-01,P010,Women's Handbag,Fashion,1,3500,3500,C056,Card,Delivered
+O057,2026-03-01,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C057,Cash,Delivered
+O058,2026-03-02,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C058,M-Pesa,Delivered
+O059,2026-03-02,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C059,Card,Delivered
+O060,2026-03-03,P025,Wall Clock,Home & Living,1,1500,1500,C060,Cash,Delivered
+O061,2026-03-03,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C061,M-Pesa,Delivered
+O062,2026-03-04,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C062,Card,Delivered
+O063,2026-03-04,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C063,Cash,Delivered
+O064,2026-03-05,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C064,M-Pesa,Delivered
+O065,2026-03-05,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C065,Card,Delivered
+O066,2026-03-06,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C066,Cash,Delivered
+O067,2026-03-06,P021,Throw Pillow Set,Home & Living,1,1800,1800,C067,M-Pesa,Delivered
+O068,2026-03-07,P008,Classic White Sneakers,Footwear,1,3200,3200,C068,Card,Delivered
+O069,2026-03-07,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C069,Cash,Delivered
+O070,2026-03-08,P012,Garnier Micellar Water,Beauty,1,950,950,C070,M-Pesa,Delivered
+O071,2026-03-08,P002,Redmi Note 13,Electronics,1,28500,28500,C071,Card,Delivered
+O072,2026-03-09,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C072,Cash,Delivered
+O073,2026-03-09,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C073,M-Pesa,Delivered
+O074,2026-03-10,P022,Laundry Basket,Home & Living,1,950,950,C074,Card,Delivered
+O075,2026-03-10,P026,Men's Running Shoes,Footwear,1,4200,4200,C075,Cash,Delivered
+O076,2026-03-11,P009,Men's Leather Belt,Fashion,1,1200,1200,C076,M-Pesa,Delivered
+O077,2026-03-11,P020,Kabras Sugar 2kg,Groceries,3,290,870,C077,Card,Delivered
+O078,2026-03-12,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C078,Cash,Delivered
+O079,2026-03-12,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C079,M-Pesa,Delivered
+O080,2026-03-13,P023,LED Desk Lamp,Home & Living,1,2200,2200,C080,Card,Delivered
+O081,2026-03-13,P027,Women's Flat Sandals,Footwear,1,1800,1800,C081,Cash,Delivered
+O082,2026-03-14,P028,School Backpack,Fashion,1,2500,2500,C082,M-Pesa,Delivered
+O084,2026-03-15,P005,HP Wireless Mouse,Electronics,2,1800,3600,C084,Cash,Delivered
+O085,2026-03-15,P017,Brookside Milk 500ml,Groceries,5,65,325,C085,M-Pesa,Delivered
+O086,2026-03-16,P010,Women's Handbag,Fashion,1,3500,3500,C086,Card,Delivered
+O087,2026-03-16,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C087,Cash,Delivered
+O088,2026-03-17,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C088,M-Pesa,Delivered
+O089,2026-03-17,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C089,Card,Delivered
+O090,2026-03-18,P025,Wall Clock,Home & Living,1,1500,1500,C090,Cash,Delivered
+O091,2026-03-18,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C091,M-Pesa,Delivered
+O092,2026-03-19,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C092,Card,Delivered
+O093,2026-03-19,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C093,Cash,Delivered
+O094,2026-03-20,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C094,M-Pesa,Delivered
+O095,2026-03-20,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C095,Card,Delivered
+O096,2026-03-21,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C096,Cash,Delivered
+O097,2026-03-21,P021,Throw Pillow Set,Home & Living,1,1800,1800,C097,M-Pesa,Delivered
+O098,2026-03-22,P008,Classic White Sneakers,Footwear,1,3200,3200,C098,Card,Delivered
+O099,2026-03-22,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C099,Cash,Delivered
+O100,2026-03-23,P012,Garnier Micellar Water,Beauty,1,950,950,C100,M-Pesa,Delivered
+O101,2026-03-23,P002,Redmi Note 13,Electronics,1,28500,28500,C101,Card,Delivered
+O102,2026-03-24,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C102,Cash,Delivered
+O103,2026-03-24,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C103,M-Pesa,Delivered
+O104,2026-03-25,P022,Laundry Basket,Home & Living,1,950,950,C104,Card,Delivered
+O105,2026-03-25,P026,Men's Running Shoes,Footwear,1,4200,4200,C105,Cash,Delivered
+O106,2026-03-26,P009,Men's Leather Belt,Fashion,1,1200,1200,C106,M-Pesa,Delivered
+O107,2026-03-26,P020,Kabras Sugar 2kg,Groceries,3,290,870,C107,Card,Delivered
+O108,2026-03-27,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C108,Cash,Delivered
+O109,2026-03-27,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C109,M-Pesa,Delivered
+O110,2026-03-28,P023,LED Desk Lamp,Home & Living,1,2200,2200,C110,Card,Delivered
+O111,2026-03-28,P027,Women's Flat Sandals,Footwear,1,1800,1800,C111,Cash,Delivered
+O112,2026-03-29,P028,School Backpack,Fashion,1,2500,2500,C112,M-Pesa,Delivered
+O114,2026-03-30,P005,HP Wireless Mouse,Electronics,2,1800,3600,C114,Cash,Delivered
+O115,2026-03-30,P017,Brookside Milk 500ml,Groceries,5,65,325,C115,M-Pesa,Delivered
+O116,2026-03-31,P010,Women's Handbag,Fashion,1,3500,3500,C116,Card,Delivered
+O117,2026-03-31,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C117,Cash,Delivered
+O118,2026-03-31,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C118,M-Pesa,Delivered
+O119,2026-03-31,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C119,Card,Delivered
+O120,2026-03-31,P025,Wall Clock,Home & Living,1,1500,1500,C120,Cash,Delivered
+O121,2026-03-31,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C121,M-Pesa,Delivered
+O122,2026-03-31,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C122,Card,Delivered
+O123,2026-03-31,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C123,Cash,Delivered
+O124,2026-04-01,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C124,Card,Delivered
+O125,2026-04-01,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C125,M-Pesa,Delivered
+O126,2026-04-02,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C126,Cash,Delivered
+O127,2026-04-02,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C127,Card,Delivered
+O128,2026-04-03,P023,LED Desk Lamp,Home & Living,1,2200,2200,C128,M-Pesa,Delivered
+O129,2026-04-03,P008,Classic White Sneakers,Footwear,1,3200,3200,C129,Cash,Delivered
+O130,2026-04-04,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C130,Card,Delivered
+O131,2026-04-04,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C131,M-Pesa,Delivered
+O132,2026-04-05,P021,Throw Pillow Set,Home & Living,1,1800,1800,C132,Cash,Delivered
+O133,2026-04-05,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C133,Card,Delivered
+O134,2026-04-06,P002,Redmi Note 13,Electronics,1,28500,28500,C134,M-Pesa,Delivered
+O135,2026-04-06,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C135,Cash,Delivered
+O136,2026-04-07,P019,Golden Fry Cooking Oil 1L,Groceries,3,330,990,C136,Card,Delivered
+O137,2026-04-07,P022,Laundry Basket,Home & Living,1,950,950,C137,M-Pesa,Delivered
+O138,2026-04-08,P026,Men's Running Shoes,Footwear,1,4200,4200,C138,Card,Delivered
+O139,2026-04-08,P009,Men's Leather Belt,Fashion,1,1200,1200,C139,Cash,Delivered
+O140,2026-04-09,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C140,M-Pesa,Delivered
+O141,2026-04-09,P017,Brookside Milk 500ml,Groceries,5,65,325,C141,Cash,Delivered
+O142,2026-04-10,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C142,Card,Delivered
+O143,2026-04-10,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C143,M-Pesa,Delivered
+O144,2026-04-11,P027,Women's Flat Sandals,Footwear,2,1800,3600,C144,Card,Delivered
+O145,2026-04-11,P028,School Backpack,Fashion,1,2500,2500,C145,Cash,Delivered
+O146,2026-04-12,P015,Vaseline Lip Therapy,Beauty,3,300,900,C146,M-Pesa,Delivered
+O147,2026-04-12,P005,HP Wireless Mouse,Electronics,1,1800,1800,C147,Card,Delivered
+O148,2026-04-13,P020,Kabras Sugar 2kg,Groceries,2,290,580,C148,Cash,Delivered
+O149,2026-04-13,P010,Women's Handbag,Fashion,1,3500,3500,C149,M-Pesa,Delivered
+O150,2026-04-14,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C150,Card,Delivered
+O151,2026-04-14,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C151,Cash,Delivered
+O152,2026-04-15,P025,Wall Clock,Home & Living,1,1500,1500,C152,M-Pesa,Delivered
+O153,2026-04-15,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C153,Card,Delivered
+O154,2026-04-16,P016,Unga Wa Dola 2kg,Groceries,3,210,630,C154,Cash,Delivered
+O155,2026-04-16,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C155,M-Pesa,Delivered
+O156,2026-04-17,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C156,Card,Delivered
+O157,2026-04-17,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C157,M-Pesa,Delivered
+O158,2026-04-18,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C158,Cash,Delivered
+O159,2026-04-18,P021,Throw Pillow Set,Home & Living,1,1800,1800,C159,Card,Delivered
+O160,2026-04-19,P008,Classic White Sneakers,Footwear,1,3200,3200,C160,M-Pesa,Delivered
+O161,2026-04-19,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C161,Card,Delivered
+O162,2026-04-20,P012,Garnier Micellar Water,Beauty,1,950,950,C162,Cash,Delivered
+O163,2026-04-20,P002,Redmi Note 13,Electronics,1,28500,28500,C163,M-Pesa,Delivered
+O164,2026-04-21,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C164,Card,Delivered
+O165,2026-04-21,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C165,Cash,Delivered
+O166,2026-04-22,P022,Laundry Basket,Home & Living,1,950,950,C166,M-Pesa,Delivered
+O167,2026-04-22,P026,Men's Running Shoes,Footwear,1,4200,4200,C167,Card,Delivered
+O168,2026-04-23,P009,Men's Leather Belt,Fashion,1,1200,1200,C168,Cash,Delivered
+O169,2026-04-23,P020,Kabras Sugar 2kg,Groceries,3,290,870,C169,M-Pesa,Delivered
+O170,2026-04-24,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C170,Card,Delivered
+O171,2026-04-24,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C171,Cash,Delivered
+O172,2026-04-25,P023,LED Desk Lamp,Home & Living,1,2200,2200,C172,M-Pesa,Delivered
+O173,2026-04-25,P027,Women's Flat Sandals,Footwear,1,1800,1800,C173,Card,Delivered
+O174,2026-04-26,P028,School Backpack,Fashion,1,2500,2500,C174,Cash,Delivered
+O175,2026-04-26,P015,Vaseline Lip Therapy,Beauty,2,300,600,C175,M-Pesa,Delivered
+O176,2026-04-27,P005,HP Wireless Mouse,Electronics,2,1800,3600,C176,Card,Delivered
+O177,2026-04-27,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C177,Cash,Delivered
+O178,2026-04-28,P010,Women's Handbag,Fashion,1,3500,3500,C178,M-Pesa,Delivered
+O179,2026-04-28,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C179,Card,Delivered
+O180,2026-04-29,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C180,Cash,Delivered
+O181,2026-04-29,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C181,M-Pesa,Delivered
+O182,2026-04-30,P025,Wall Clock,Home & Living,1,1500,1500,C182,Card,Delivered
+O183,2026-04-30,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C183,Cash,Delivered
+O184,2026-05-01,P017,Brookside Milk 500ml,Groceries,6,65,390,C184,M-Pesa,Delivered
+O185,2026-05-02,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C185,Card,Delivered
+O186,2026-05-03,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C186,Cash,Delivered
+O187,2026-05-04,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C187,M-Pesa,Delivered
+O188,2026-05-05,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C188,Card,Delivered
+O189,2026-05-06,P021,Throw Pillow Set,Home & Living,1,1800,1800,C189,Cash,Delivered
+O190,2026-05-07,P008,Classic White Sneakers,Footwear,1,3200,3200,C190,M-Pesa,Delivered
+O191,2026-05-08,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C191,Card,Delivered
+O192,2026-05-09,P012,Garnier Micellar Water,Beauty,1,950,950,C192,Cash,Delivered
+O193,2026-05-10,P002,Redmi Note 13,Electronics,1,28500,28500,C193,M-Pesa,Delivered
+O194,2026-05-11,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C194,Card,Delivered
+O195,2026-05-12,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C195,Cash,Delivered
+O196,2026-05-13,P022,Laundry Basket,Home & Living,1,950,950,C196,M-Pesa,Delivered
+O197,2026-05-14,P026,Men's Running Shoes,Footwear,1,4200,4200,C197,Card,Delivered
+O198,2026-05-15,P009,Men's Leather Belt,Fashion,1,1200,1200,C198,Cash,Delivered
+O199,2026-05-16,P020,Kabras Sugar 2kg,Groceries,3,290,870,C199,M-Pesa,Delivered
+O200,2026-05-17,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C200,Card,Delivered
+O201,2026-05-18,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C201,Cash,Delivered
+O202,2026-05-19,P023,LED Desk Lamp,Home & Living,1,2200,2200,C202,M-Pesa,Delivered
+O203,2026-05-20,P027,Women's Flat Sandals,Footwear,1,1800,1800,C203,Card,Delivered
+O204,2026-05-21,P028,School Backpack,Fashion,1,2500,2500,C204,Cash,Delivered
+O205,2026-05-22,P015,Vaseline Lip Therapy,Beauty,2,300,600,C205,M-Pesa,Delivered
+O206,2026-05-23,P005,HP Wireless Mouse,Electronics,2,1800,3600,C206,Card,Delivered
+O207,2026-05-24,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C207,Cash,Delivered
+O208,2026-05-25,P010,Women's Handbag,Fashion,1,3500,3500,C208,M-Pesa,Delivered
+O209,2026-05-26,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C209,Card,Delivered
+O210,2026-05-27,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C210,Cash,Delivered
+O211,2026-05-28,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C211,M-Pesa,Delivered
+O212,2026-05-29,P025,Wall Clock,Home & Living,1,1500,1500,C212,Card,Delivered
+O213,2026-05-30,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C213,Cash,Delivered
+O214,2026-05-31,P017,Brookside Milk 500ml,Groceries,5,65,325,C214,M-Pesa,Delivered
+O215,2026-06-01,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C215,Card,Delivered
+O216,2026-06-02,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C216,Cash,Delivered
+O217,2026-06-03,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C217,M-Pesa,Delivered
+O218,2026-06-04,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C218,Card,Delivered
+O219,2026-06-05,P021,Throw Pillow Set,Home & Living,1,1800,1800,C219,Cash,Delivered
+O220,2026-06-06,P008,Classic White Sneakers,Footwear,1,3200,3200,C220,M-Pesa,Delivered
+O221,2026-06-07,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C221,Card,Delivered
+O222,2026-06-08,P012,Garnier Micellar Water,Beauty,1,950,950,C222,Cash,Delivered
+O223,2026-06-09,P002,Redmi Note 13,Electronics,1,28500,28500,C223,M-Pesa,Delivered
+O224,2026-06-10,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C224,Card,Delivered
+O225,2026-06-11,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C225,Cash,Delivered
+O226,2026-06-12,P022,Laundry Basket,Home & Living,1,950,950,C226,M-Pesa,Delivered
+O227,2026-06-13,P026,Men's Running Shoes,Footwear,1,4200,4200,C227,Card,Delivered
+O228,2026-06-14,P009,Men's Leather Belt,Fashion,1,1200,1200,C228,Cash,Delivered
+O229,2026-06-15,P020,Kabras Sugar 2kg,Groceries,3,290,870,C229,M-Pesa,Delivered
+O230,2026-06-16,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C230,Card,Delivered
+O231,2026-06-17,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C231,Cash,Delivered
+O232,2026-06-18,P023,LED Desk Lamp,Home & Living,1,2200,2200,C232,M-Pesa,Delivered
+O233,2026-06-19,P027,Women's Flat Sandals,Footwear,1,1800,1800,C233,Card,Delivered
+O234,2026-06-20,P028,School Backpack,Fashion,1,2500,2500,C234,Cash,Delivered
+O235,2026-06-21,P015,Vaseline Lip Therapy,Beauty,2,300,600,C235,M-Pesa,Delivered
+O236,2026-06-22,P005,HP Wireless Mouse,Electronics,2,1800,3600,C236,Card,Delivered
+O237,2026-06-23,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C237,Cash,Delivered
+O238,2026-06-24,P010,Women's Handbag,Fashion,1,3500,3500,C238,M-Pesa,Delivered
+O239,2026-06-25,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C239,Card,Delivered
+O240,2026-06-26,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C240,Cash,Delivered
+O241,2026-06-27,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C241,M-Pesa,Delivered
+O242,2026-06-28,P025,Wall Clock,Home & Living,1,1500,1500,C242,Card,Delivered
+O243,2026-06-29,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C243,Cash,Delivered
+O244,2026-06-30,P017,Brookside Milk 500ml,Groceries,5,65,325,C244,M-Pesa,Delivered
+O245,2026-07-01,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C245,Card,Delivered
+O246,2026-07-02,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C246,Cash,Delivered
+O247,2026-07-03,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C247,M-Pesa,Delivered
+O248,2026-07-04,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C248,Card,Delivered
+O249,2026-07-05,P021,Throw Pillow Set,Home & Living,1,1800,1800,C249,Cash,Delivered
+O250,2026-07-06,P008,Classic White Sneakers,Footwear,1,3200,3200,C250,M-Pesa,Delivered
+O251,2026-07-07,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C251,Card,Delivered
+O252,2026-07-08,P012,Garnier Micellar Water,Beauty,1,950,950,C252,Cash,Delivered
+O253,2026-07-09,P002,Redmi Note 13,Electronics,1,28500,28500,C253,M-Pesa,Delivered
+O254,2026-07-10,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C254,Card,Delivered
+O255,2026-07-11,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C255,Cash,Delivered
+O256,2026-07-12,P022,Laundry Basket,Home & Living,1,950,950,C256,M-Pesa,Delivered
+O257,2026-07-13,P026,Men's Running Shoes,Footwear,1,4200,4200,C257,Card,Delivered
+O258,2026-07-14,P009,Men's Leather Belt,Fashion,1,1200,1200,C258,Cash,Delivered
+O259,2026-07-15,P020,Kabras Sugar 2kg,Groceries,3,290,870,C259,M-Pesa,Delivered
+O260,2026-07-16,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C260,Card,Delivered
+O261,2026-07-17,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C261,Cash,Delivered
+O262,2026-07-18,P023,LED Desk Lamp,Home & Living,1,2200,2200,C262,M-Pesa,Delivered
+O263,2026-07-19,P027,Women's Flat Sandals,Footwear,1,1800,1800,C263,Card,Delivered
+O264,2026-07-20,P028,School Backpack,Fashion,1,2500,2500,C264,Cash,Delivered
+O265,2026-07-21,P015,Vaseline Lip Therapy,Beauty,2,300,600,C265,M-Pesa,Delivered
+O266,2026-07-22,P005,HP Wireless Mouse,Electronics,2,1800,3600,C266,Card,Delivered
+O267,2026-07-23,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C267,Cash,Delivered
+O268,2026-07-24,P010,Women's Handbag,Fashion,1,3500,3500,C268,M-Pesa,Delivered
+O269,2026-07-25,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C269,Card,Delivered
+O270,2026-07-26,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C270,Cash,Delivered
+O271,2026-07-27,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C271,M-Pesa,Delivered
+O272,2026-07-28,P025,Wall Clock,Home & Living,1,1500,1500,C272,Card,Delivered
+O273,2026-07-29,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C273,Cash,Delivered
+O274,2026-07-30,P017,Brookside Milk 500ml,Groceries,5,65,325,C274,M-Pesa,Delivered
+O275,2026-07-31,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C275,Card,Delivered
+O276,2026-08-01,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C276,Cash,Delivered
+O277,2026-08-02,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C277,M-Pesa,Delivered
+O278,2026-08-03,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C278,Card,Delivered
+O279,2026-08-04,P021,Throw Pillow Set,Home & Living,1,1800,1800,C279,Cash,Delivered
+O280,2026-08-05,P008,Classic White Sneakers,Footwear,1,3200,3200,C280,M-Pesa,Delivered
+O281,2026-08-06,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C281,Card,Delivered
+O282,2026-08-07,P012,Garnier Micellar Water,Beauty,1,950,950,C282,Cash,Delivered
+O283,2026-08-08,P002,Redmi Note 13,Electronics,1,28500,28500,C283,M-Pesa,Delivered
+O284,2026-08-09,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C284,Card,Delivered
+O285,2026-08-10,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C285,Cash,Delivered
+O286,2026-08-11,P022,Laundry Basket,Home & Living,1,950,950,C286,M-Pesa,Delivered
+O287,2026-08-12,P026,Men's Running Shoes,Footwear,1,4200,4200,C287,Card,Delivered
+O288,2026-08-13,P009,Men's Leather Belt,Fashion,1,1200,1200,C288,Cash,Delivered
+O289,2026-08-14,P020,Kabras Sugar 2kg,Groceries,3,290,870,C289,M-Pesa,Delivered
+O290,2026-08-15,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C290,Card,Delivered
+O291,2026-08-16,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C291,Cash,Delivered
+O292,2026-08-17,P023,LED Desk Lamp,Home & Living,1,2200,2200,C292,M-Pesa,Delivered
+O293,2026-08-18,P027,Women's Flat Sandals,Footwear,1,1800,1800,C293,Card,Delivered
+O294,2026-08-19,P028,School Backpack,Fashion,1,2500,2500,C294,Cash,Delivered
+O295,2026-08-20,P015,Vaseline Lip Therapy,Beauty,2,300,600,C295,M-Pesa,Delivered
+O296,2026-08-21,P005,HP Wireless Mouse,Electronics,2,1800,3600,C296,Card,Delivered
+O297,2026-08-22,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C297,Cash,Delivered
+O298,2026-08-23,P010,Women's Handbag,Fashion,1,3500,3500,C298,M-Pesa,Delivered
+O299,2026-08-24,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C299,Card,Delivered
+O300,2026-08-25,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C300,Cash,Delivered
+O301,2026-08-26,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C301,M-Pesa,Delivered
+O302,2026-08-27,P025,Wall Clock,Home & Living,1,1500,1500,C302,Card,Delivered
+O303,2026-08-28,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C303,Cash,Delivered
+O304,2026-08-29,P017,Brookside Milk 500ml,Groceries,5,65,325,C304,M-Pesa,Delivered
+O305,2026-08-30,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C305,Card,Delivered
+O306,2026-08-31,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C306,Cash,Delivered
+O307,2026-09-01,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C307,M-Pesa,Delivered
+O308,2026-09-02,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C308,Card,Delivered
+O309,2026-09-03,P021,Throw Pillow Set,Home & Living,1,1800,1800,C309,Cash,Delivered
+O310,2026-09-04,P008,Classic White Sneakers,Footwear,1,3200,3200,C310,M-Pesa,Delivered
+O311,2026-09-05,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C311,Card,Delivered
+O312,2026-09-06,P012,Garnier Micellar Water,Beauty,1,950,950,C312,Cash,Delivered
+O313,2026-09-07,P002,Redmi Note 13,Electronics,1,28500,28500,C313,M-Pesa,Delivered
+O314,2026-09-08,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C314,Card,Delivered
+O315,2026-09-09,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C315,Cash,Delivered
+O316,2026-09-10,P022,Laundry Basket,Home & Living,1,950,950,C316,M-Pesa,Delivered
+O317,2026-09-11,P026,Men's Running Shoes,Footwear,1,4200,4200,C317,Card,Delivered
+O318,2026-09-12,P009,Men's Leather Belt,Fashion,1,1200,1200,C318,Cash,Delivered
+O319,2026-09-13,P020,Kabras Sugar 2kg,Groceries,3,290,870,C319,M-Pesa,Delivered
+O320,2026-09-14,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C320,Card,Delivered
+O321,2026-09-15,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C321,Cash,Delivered
+O322,2026-09-16,P023,LED Desk Lamp,Home & Living,1,2200,2200,C322,M-Pesa,Delivered
+O323,2026-09-17,P027,Women's Flat Sandals,Footwear,1,1800,1800,C323,Card,Delivered
+O324,2026-09-18,P028,School Backpack,Fashion,1,2500,2500,C324,Cash,Delivered
+O325,2026-09-19,P015,Vaseline Lip Therapy,Beauty,2,300,600,C325,M-Pesa,Delivered
+O326,2026-09-20,P005,HP Wireless Mouse,Electronics,2,1800,3600,C326,Card,Delivered
+O327,2026-09-21,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C327,Cash,Delivered
+O328,2026-09-22,P010,Women's Handbag,Fashion,1,3500,3500,C328,M-Pesa,Delivered
+O329,2026-09-23,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C329,Card,Delivered
+O330,2026-09-24,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C330,Cash,Delivered
+O331,2026-09-25,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C331,M-Pesa,Delivered
+O332,2026-09-26,P025,Wall Clock,Home & Living,1,1500,1500,C332,Card,Delivered
+O333,2026-09-27,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C333,Cash,Delivered
+O334,2026-09-28,P017,Brookside Milk 500ml,Groceries,5,65,325,C334,M-Pesa,Delivered
+O335,2026-09-29,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C335,Card,Delivered
+O336,2026-09-30,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C336,Cash,Delivered
+O337,2026-10-01,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C337,M-Pesa,Delivered
+O338,2026-10-02,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C338,Card,Delivered
+O339,2026-10-03,P021,Throw Pillow Set,Home & Living,1,1800,1800,C339,Cash,Delivered
+O340,2026-10-04,P008,Classic White Sneakers,Footwear,1,3200,3200,C340,M-Pesa,Delivered
+O341,2026-10-05,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C341,Card,Delivered
+O342,2026-10-06,P012,Garnier Micellar Water,Beauty,1,950,950,C342,Cash,Delivered
+O343,2026-10-07,P002,Redmi Note 13,Electronics,1,28500,28500,C343,M-Pesa,Delivered
+O344,2026-10-08,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C344,Card,Delivered
+O345,2026-10-09,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C345,Cash,Delivered
+O346,2026-10-10,P022,Laundry Basket,Home & Living,1,950,950,C346,M-Pesa,Delivered
+O347,2026-10-11,P026,Men's Running Shoes,Footwear,1,4200,4200,C347,Card,Delivered
+O348,2026-10-12,P009,Men's Leather Belt,Fashion,1,1200,1200,C348,Cash,Delivered
+O349,2026-10-13,P020,Kabras Sugar 2kg,Groceries,3,290,870,C349,M-Pesa,Delivered
+O350,2026-10-14,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C350,Card,Delivered
+O351,2026-10-15,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C351,Cash,Delivered
+O352,2026-10-16,P023,LED Desk Lamp,Home & Living,1,2200,2200,C352,M-Pesa,Delivered
+O353,2026-10-17,P027,Women's Flat Sandals,Footwear,1,1800,1800,C353,Card,Delivered
+O354,2026-10-18,P028,School Backpack,Fashion,1,2500,2500,C354,Cash,Delivered
+O355,2026-10-19,P015,Vaseline Lip Therapy,Beauty,2,300,600,C355,M-Pesa,Delivered
+O356,2026-10-20,P005,HP Wireless Mouse,Electronics,2,1800,3600,C356,Card,Delivered
+O357,2026-10-21,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C357,Cash,Delivered
+O358,2026-10-22,P010,Women's Handbag,Fashion,1,3500,3500,C358,M-Pesa,Delivered
+O359,2026-10-23,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C359,Card,Delivered
+O360,2026-10-24,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C360,Cash,Delivered
+O361,2026-10-25,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C361,M-Pesa,Delivered
+O362,2026-10-26,P025,Wall Clock,Home & Living,1,1500,1500,C362,Card,Delivered
+O363,2026-10-27,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C363,Cash,Delivered
+O364,2026-10-28,P017,Brookside Milk 500ml,Groceries,5,65,325,C364,M-Pesa,Delivered
+O365,2026-10-29,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C365,Card,Delivered
+O366,2026-10-30,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C366,Cash,Delivered
+O367,2026-10-31,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C367,M-Pesa,Delivered
+O368,2026-11-01,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C368,Card,Delivered
+O369,2026-11-02,P021,Throw Pillow Set,Home & Living,1,1800,1800,C369,Cash,Delivered
+O370,2026-11-03,P008,Classic White Sneakers,Footwear,1,3200,3200,C370,M-Pesa,Delivered
+O371,2026-11-04,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C371,Card,Delivered
+O372,2026-11-05,P012,Garnier Micellar Water,Beauty,1,950,950,C372,Cash,Delivered
+O373,2026-11-06,P002,Redmi Note 13,Electronics,1,28500,28500,C373,M-Pesa,Delivered
+O374,2026-11-07,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C374,Card,Delivered
+O375,2026-11-08,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C375,Cash,Delivered
+O376,2026-11-09,P022,Laundry Basket,Home & Living,1,950,950,C376,M-Pesa,Delivered
+O377,2026-11-10,P026,Men's Running Shoes,Footwear,1,4200,4200,C377,Card,Delivered
+O378,2026-11-11,P009,Men's Leather Belt,Fashion,1,1200,1200,C378,Cash,Delivered
+O379,2026-11-12,P020,Kabras Sugar 2kg,Groceries,3,290,870,C379,M-Pesa,Delivered
+O380,2026-11-13,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C380,Card,Delivered
+O381,2026-11-14,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C381,Cash,Delivered
+O382,2026-11-15,P023,LED Desk Lamp,Home & Living,1,2200,2200,C382,M-Pesa,Delivered
+O383,2026-11-16,P027,Women's Flat Sandals,Footwear,1,1800,1800,C383,Card,Delivered
+O384,2026-11-17,P028,School Backpack,Fashion,1,2500,2500,C384,Cash,Delivered
+O385,2026-11-18,P015,Vaseline Lip Therapy,Beauty,2,300,600,C385,M-Pesa,Delivered
+O386,2026-11-19,P005,HP Wireless Mouse,Electronics,2,1800,3600,C386,Card,Delivered
+O387,2026-11-20,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C387,Cash,Delivered
+O388,2026-11-21,P010,Women's Handbag,Fashion,1,3500,3500,C388,M-Pesa,Delivered
+O389,2026-11-22,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C389,Card,Delivered
+O390,2026-11-23,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C390,Cash,Delivered
+O391,2026-11-24,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C391,M-Pesa,Delivered
+O392,2026-11-25,P025,Wall Clock,Home & Living,1,1500,1500,C392,Card,Delivered
+O393,2026-11-26,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C393,Cash,Delivered
+O394,2026-11-27,P017,Brookside Milk 500ml,Groceries,5,65,325,C394,M-Pesa,Delivered
+O395,2026-11-28,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C395,Card,Delivered
+O396,2026-11-29,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C396,Cash,Delivered
+O397,2026-11-30,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C397,M-Pesa,Delivered
+O398,2026-12-01,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C398,Card,Delivered
+O399,2026-12-02,P021,Throw Pillow Set,Home & Living,1,1800,1800,C399,Cash,Delivered
+O400,2026-12-03,P008,Classic White Sneakers,Footwear,1,3200,3200,C400,M-Pesa,Delivered
+O401,2026-12-04,P019,Golden Fry Cooking Oil 1L,Groceries,2,330,660,C401,Card,Delivered
+O402,2026-12-05,P012,Garnier Micellar Water,Beauty,1,950,950,C402,Cash,Delivered
+O403,2026-12-06,P002,Redmi Note 13,Electronics,1,28500,28500,C403,M-Pesa,Delivered
+O404,2026-12-07,P007,Women's Oversized Hoodie,Fashion,1,2800,2800,C404,Card,Delivered
+O405,2026-12-08,P014,Dove Roll-On Deodorant,Beauty,2,450,900,C405,Cash,Delivered
+O406,2026-12-09,P022,Laundry Basket,Home & Living,1,950,950,C406,M-Pesa,Delivered
+O407,2026-12-10,P026,Men's Running Shoes,Footwear,1,4200,4200,C407,Card,Delivered
+O408,2026-12-11,P009,Men's Leather Belt,Fashion,1,1200,1200,C408,Cash,Delivered
+O409,2026-12-12,P020,Kabras Sugar 2kg,Groceries,3,290,870,C409,M-Pesa,Delivered
+O410,2026-12-13,P004,Oraimo 20000mAh Power Bank,Electronics,1,3500,3500,C410,Card,Delivered
+O411,2026-12-14,P013,Maybelline Fit Me Foundation,Beauty,1,1200,1200,C411,Cash,Delivered
+O412,2026-12-15,P023,LED Desk Lamp,Home & Living,1,2200,2200,C412,M-Pesa,Delivered
+O413,2026-12-16,P027,Women's Flat Sandals,Footwear,1,1800,1800,C413,Card,Delivered
+O414,2026-12-17,P028,School Backpack,Fashion,1,2500,2500,C414,Cash,Delivered
+O415,2026-12-18,P015,Vaseline Lip Therapy,Beauty,2,300,600,C415,M-Pesa,Delivered
+O416,2026-12-19,P005,HP Wireless Mouse,Electronics,2,1800,3600,C416,Card,Delivered
+O417,2026-12-20,P016,Unga Wa Dola 2kg,Groceries,4,210,840,C417,Cash,Delivered
+O418,2026-12-21,P010,Women's Handbag,Fashion,1,3500,3500,C418,M-Pesa,Delivered
+O419,2026-12-22,P024,Non-Stick Frying Pan,Home & Living,1,2600,2600,C419,Card,Delivered
+O420,2026-12-23,P029,Smartwatch Series Fit,Electronics,1,7200,7200,C420,Cash,Delivered
+O421,2026-12-24,P030,Cerave Foaming Cleanser,Beauty,1,1700,1700,C421,M-Pesa,Delivered
+O422,2026-12-25,P025,Wall Clock,Home & Living,1,1500,1500,C422,Card,Delivered
+O423,2026-12-26,P001,Samsung Galaxy A15,Electronics,1,24500,24500,C423,Cash,Delivered
+O424,2026-12-27,P017,Brookside Milk 500ml,Groceries,5,65,325,C424,M-Pesa,Delivered
+O425,2026-12-28,P011,Nivea Body Lotion 400ml,Beauty,2,850,1700,C425,Card,Delivered
+O426,2026-12-29,P006,Men's Slim Fit Jeans,Fashion,1,2200,2200,C426,Cash,Delivered
+O427,2026-12-30,P003,JBL Tune 510BT Headphones,Electronics,1,6500,6500,C427,M-Pesa,Delivered
+O428,2026-12-31,P018,Ajab Wheat Flour 2kg,Groceries,2,240,480,C428,Card,Delivered

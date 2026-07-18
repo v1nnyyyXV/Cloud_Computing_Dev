@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price,stock_quantity,reorder_level,supplier,date_added
+P001,Samsung Galaxy A15,Electronics,24500,18,8,Nairobi Tech Supplies,2026-01-10
+P002,Redmi Note 13,Electronics,28500,10,6,East Africa Devices,2026-01-12
+P003,JBL Tune 510BT Headphones,Electronics,6500,22,10,SoundHub Distributors,2026-01-15
+P004,Oraimo 20000mAh Power Bank,Electronics,3500,7,8,Gadget Point Kenya,2026-01-18
+P005,HP Wireless Mouse,Electronics,1800,14,5,Office Tech World,2026-01-20
+P006,Men's Slim Fit Jeans,Fashion,2200,20,8,Urban Wear Wholesalers,2026-01-11
+P007,Women's Oversized Hoodie,Fashion,2800,9,6,Trendy Apparel Ltd,2026-01-13
+P008,Classic White Sneakers,Footwear,3200,12,6,StepStyle Footwear,2026-01-17
+P009,Men's Leather Belt,Fashion,1200,15,5,Urban Wear Wholesalers,2026-01-19
+P010,Women's Handbag,Fashion,3500,6,5,Trendy Apparel Ltd,2026-01-21
+P011,Nivea Body Lotion 400ml,Beauty,850,25,10,Glow Cosmetics Kenya,2026-01-09
+P012,Garnier Micellar Water,Beauty,950,13,6,Glow Cosmetics Kenya,2026-01-14
+P013,Maybelline Fit Me Foundation,Beauty,1200,8,5,BeautyLine Distributors,2026-01-16
+P014,Dove Roll-On Deodorant,Beauty,450,19,8,Glow Cosmetics Kenya,2026-01-18
+P015,Vaseline Lip Therapy,Beauty,300,30,12,BeautyLine Distributors,2026-01-22
+P016,Unga Wa Dola 2kg,Groceries,210,40,15,FreshMart Supplies,2026-01-08
+P017,Brookside Milk 500ml,Groceries,65,35,12,FreshMart Supplies,2026-01-10
+P018,Ajab Wheat Flour 2kg,Groceries,240,28,10,FreshMart Supplies,2026-01-13
+P019,Golden Fry Cooking Oil 1L,Groceries,330,16,8,Household Essentials Ltd,2026-01-15
+P020,Kabras Sugar 2kg,Groceries,290,11,8,FreshMart Supplies,2026-01-20
+P021,Throw Pillow Set,Home & Living,1800,10,5,HomeNest Distributors,2026-01-12
+P022,Laundry Basket,Home & Living,950,14,6,HomeNest Distributors,2026-01-14
+P023,LED Desk Lamp,Home & Living,2200,9,5,Home Comfort Kenya,2026-01-17
+P024,Non-Stick Frying Pan,Home & Living,2600,7,5,Home Comfort Kenya,2026-01-19
+P025,Wall Clock,Home & Living,1500,12,4,HomeNest Distributors,2026-01-21
+P026,Men's Running Shoes,Footwear,4200,8,6,StepStyle Footwear,2026-01-16
+P027,Women's Flat Sandals,Footwear,1800,17,7,StepStyle Footwear,2026-01-18
+P028,School Backpack,Fashion,2500,13,6,Urban Wear Wholesalers,2026-01-23
+P029,Smartwatch Series Fit,Electronics,7200,5,6,East Africa Devices,2026-01-24
+P030,Cerave Foaming Cleanser,Beauty,1700,4,5,BeautyLine Distributors,2026-01-25
